@@ -1,3 +1,7 @@
+Using the REACT template created a word game which is takes translated words from eng.txt and jap.txt and randomly makes a multiple choice guessing game.
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
